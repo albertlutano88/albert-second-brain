@@ -17,6 +17,7 @@ Repo ini second brain Albert Lutano. Baca file ini sebelum menambah atau meminda
    - Berkaitan dengan ventura, klien, atau area hidup yang sudah ada di `2-area/`: masuk ke file itu.
    - Bahan referensi atau ide yang belum terikat ke mana pun: `3-sumber/`.
    - Ragu: `INBOX.md`.
+   - Belanja dan pesanan makanan pribadi masuk ke `2-area/hidup/kesehatan.md`.
 3. Janji selalu dicatat di `JANJI.md` (kepada siapa, apa, tenggat, status), lalu ditautkan dari file area atau proyeknya.
 4. Tugas masuk ke bagian `## Tugas` sebagai checkbox: `- [ ] isi (tenggat: YYYY-MM-DD)`.
 5. Proyek baru dibuat di `1-proyek/` hanya kalau ada hasil akhir yang jelas. Nama file: `slug-singkat.md`, pakai `1-proyek/_template.md`.
