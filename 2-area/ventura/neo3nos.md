@@ -2,9 +2,14 @@
 
 **Jenis:** Ventura (PT MDM), kemitraan dengan Christian Bala  
 **Status:** aktif  
-**Diperbarui:** 2026-10-20
+**Diperbarui:** 2026-10-21
 
 Boardgame terinspirasi Human Design dan Gene Keys, ciptaan Christian Bala. Kurikulum dan academy milik PT MDM.
+
+## Tugas
+
+- [ ] Cetak 1 set kartu Neo3nos bahasa Indonesia untuk Winata (Surabaya) (dicatat 2026-10-21)
+- [ ] Tentukan harga set kartu Neo3nos bahasa Indonesia untuk Winata (dicatat 2026-10-21)
 
 ## Yang sudah diketahui
 
