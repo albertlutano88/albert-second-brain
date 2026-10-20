@@ -2,9 +2,13 @@
 
 **Jenis:** Klien (perusahaan suplemen herbal)  
 **Status:** aktif  
-**Diperbarui:** 2026-10-20
+**Diperbarui:** 2026-10-21
 
 Saya memimpin strategi marketing produk Nodeem.
+
+## Tugas
+
+- [ ] Revisi minor slide sesi training AI untuk workshop reseller (tenggat: 2026-10-21)
 
 ## Yang sudah diketahui
 
@@ -22,3 +26,4 @@ Saya memimpin strategi marketing produk Nodeem.
 ## Catatan
 
 <!-- catatan baru masuk di bawah ini, terbaru di atas, format: - YYYY-MM-DD: isi -->
+- 2026-10-21: Workshop reseller Nodeem sepanjang hari. Pak Yohni jadi speaker, saya mengisi 1 sesi training AI.
