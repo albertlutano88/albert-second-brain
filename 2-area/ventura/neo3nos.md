@@ -18,8 +18,8 @@ Pesanan Winata (Surabaya): 1 set bahasa Indonesia berisi kartu, avatar, dadu, da
 
 Pesanan Christian Bala (dikirim ke Rumania):
 
-- [ ] Cetak 10 set Kartu N bahasa Rumania untuk Bala (dicatat 2026-10-21)
-- [ ] Kirim 10 tabung Neo3nos untuk Bala ke Rumania (dicatat 2026-10-21)
+- [ ] Cetak 10 set Kartu N bahasa Rumania untuk Bala (tenggat: 2026-10-31)
+- [ ] Kirim 10 tabung Neo3nos untuk Bala ke Rumania (tenggat: 2026-10-31)
 
 ## Yang sudah diketahui
 
