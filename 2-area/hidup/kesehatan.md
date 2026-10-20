@@ -2,9 +2,13 @@
 
 **Jenis:** Area hidup  
 **Status:** selalu  
-**Diperbarui:** 2026-10-20
+**Diperbarui:** 2026-10-21
 
 Bagian dari prinsip saya: diri harus di-upgrade dulu, termasuk kesehatan, sebelum hal di luar berubah.
+
+## Tugas
+
+- [ ] Pesan daging babi hutan ke Ronald (tenggat: 2026-10-21)
 
 ## Yang sudah diketahui
 
