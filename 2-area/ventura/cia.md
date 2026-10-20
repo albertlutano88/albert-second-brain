@@ -2,9 +2,13 @@
 
 **Jenis:** Ventura, bersama Yoris Sebastian dan Alfita Asmoro  
 **Status:** tahap MOU  
-**Diperbarui:** 2026-10-20
+**Diperbarui:** 2026-10-21
 
 Asesmen identitas kreatif.
+
+## Tugas
+
+- [ ] Coding program CIP Yoris Sebastian (tenggat: ASAP, dicatat 2026-10-21)
 
 ## Yang sudah diketahui
 
