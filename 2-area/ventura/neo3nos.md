@@ -8,8 +8,16 @@ Boardgame terinspirasi Human Design dan Gene Keys, ciptaan Christian Bala. Kurik
 
 ## Tugas
 
-- [ ] Cetak 1 set kartu Neo3nos bahasa Indonesia untuk Winata (Surabaya) (dicatat 2026-10-21)
-- [ ] Tentukan harga set kartu Neo3nos bahasa Indonesia untuk Winata (dicatat 2026-10-21)
+Pesanan Winata (Surabaya): 1 set bahasa Indonesia berisi kartu, avatar, dadu, dan aksesoris lainnya. Lihat [JANJI.md](../../JANJI.md).
+
+- [ ] Revisi desain kotak ke bahasa Indonesia (tenggat: 2026-10-31)
+- [ ] Cetak kartu bahasa Indonesia untuk Winata (tenggat: 2026-10-31)
+- [ ] Pesan dadu khusus (tenggat: 2026-10-31)
+- [ ] Beli aksesoris lainnya (tenggat: 2026-10-31)
+- [ ] Tentukan harga set untuk Winata (tenggat: 2026-10-31)
+
+Pesanan Cris (Rumania):
+
 - [ ] Cetak 10 set kartu Neo3nos bahasa Rumania untuk Cris (dicatat 2026-10-21)
 - [ ] Kirim 10 tabung Neo3nos untuk Cris ke Rumania (dicatat 2026-10-21)
 
@@ -28,3 +36,4 @@ Boardgame terinspirasi Human Design dan Gene Keys, ciptaan Christian Bala. Kurik
 ## Catatan
 
 <!-- catatan baru masuk di bawah ini, terbaru di atas, format: - YYYY-MM-DD: isi -->
+- 2026-10-21: Winata di Surabaya adalah pembeli game Neo3nos. Dia hanya butuh kartu, avatar, dadu, dan aksesoris lainnya, 1 set bahasa Indonesia.

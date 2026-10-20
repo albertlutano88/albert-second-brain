@@ -1,14 +1,14 @@
-# Creative Identity Assessment (CIA)
+# Creative Identity Profiling (CIP)
 
 **Jenis:** Ventura, bersama Yoris Sebastian dan Alfita Asmoro  
 **Status:** tahap MOU  
 **Diperbarui:** 2026-10-21
 
-Asesmen identitas kreatif.
+Profil identitas kreatif. Sebelumnya bernama Creative Identity Assessment (CIA).
 
 ## Tugas
 
-- [ ] Coding program CIP Yoris Sebastian (tenggat: ASAP, dicatat 2026-10-21)
+- [ ] Coding program CIP (tenggat: 2026-10-21, target malam ini)
 
 ## Yang sudah diketahui
 
@@ -19,3 +19,4 @@ Asesmen identitas kreatif.
 ## Catatan
 
 <!-- catatan baru masuk di bawah ini, terbaru di atas, format: - YYYY-MM-DD: isi -->
+- 2026-10-21: Nama program berganti dari Creative Identity Assessment (CIA) menjadi Creative Identity Profiling (CIP).

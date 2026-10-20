@@ -16,7 +16,7 @@ Tanggung jawab yang berjalan terus, tanpa garis finis.
 - [Valoreign (PT Astro Mitra Strategi)](ventura/valoreign.md)
 - [Expose (jasa website)](ventura/expose.md)
 - [Borderless Property Circle](ventura/borderless-property-circle.md)
-- [Creative Identity Assessment (CIA)](ventura/cia.md)
+- [Creative Identity Profiling (CIP)](ventura/cip.md), dulu CIA
 - [Netrá Kukilo](ventura/netra-kukilo.md)
 - [VJ Surf School](ventura/vj-surf-school.md)
 - [Yayasan New Normal](ventura/yayasan-new-normal.md)
