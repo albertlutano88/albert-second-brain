@@ -17,6 +17,8 @@
 
 ## Tugas
 
+- [ ] Revisi flyer webinar perkenalan Ultimate Self (tenggat: 2026-10-21, sebelum 19.00)
+- [ ] Tambah sedikit materi cara membandingkan Before 40 Chart dan After 40 Chart (tenggat: 2026-10-21, sebelum 19.00)
 - [ ] Jurnal 21 hari Ultimate Self (diedit dari desain Canva "Human Design Journal ASLI")
 - [ ] Konten Cuaca Energi (transit), baseline Tropical
 - [ ] Halaman ultimateself.id siap sebelum webinar publik pertama (12 November)
@@ -24,3 +26,4 @@
 ## Catatan
 
 <!-- - YYYY-MM-DD: isi -->
+- 2026-10-21: Webinar pertama perkenalan Ultimate Self malam ini jam 19.00 di Zoom ketua kelas.
