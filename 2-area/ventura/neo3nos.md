@@ -10,6 +10,7 @@ Boardgame terinspirasi Human Design dan Gene Keys, ciptaan Christian Bala. Kurik
 
 - [ ] Cetak 1 set kartu Neo3nos bahasa Indonesia untuk Winata (Surabaya) (dicatat 2026-10-21)
 - [ ] Tentukan harga set kartu Neo3nos bahasa Indonesia untuk Winata (dicatat 2026-10-21)
+- [ ] Kirim 10 tabung Neo3nos untuk Cris ke Rumania (dicatat 2026-10-21)
 
 ## Yang sudah diketahui
 
